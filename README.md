@@ -4,7 +4,7 @@ Geek API demo.
 
 ## Getting Started
 
-This Project build with Clean architecture with Flutter bloc as state management
+This Project build with Clean architecture and Flutter bloc as state management
 
 This project supports android and ios both platform.
 
